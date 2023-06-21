@@ -32,8 +32,18 @@ Navigate to client directory and run the following command:
 Run index.js file located in server src directory
 
 # How to use
-- Create an account
-- Log in
-- Edit your profile settings
-- Add games to your favourite games list
+### Create an account
+You can register your account like on every other website and after registration you will be redirected to a login page
+
+### Log in 
+You can login to your account with your email address and correct password. 
+Your password is stored safely in database in form of hash.
+
+### Edit your profile settings
+You are able to edit your username, password and profile picture. Changing password and removing account require passing current password due to a verification process.
+In order to change your current profile picture you need to click your avatar inside settings menu.
+
+![](https://github.com/WiktorGruszczynski/react-login-register-app/blob/main/images/settings.png)
+
+### Add games to your favourite games list
 
