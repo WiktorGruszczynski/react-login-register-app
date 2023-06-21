@@ -43,7 +43,7 @@ Your password is stored safely in database in form of hash.
 You are able to edit your username, password and profile picture. Changing password and removing account require passing current password due to a verification process.
 In order to change your current profile picture you need to click your avatar inside settings menu.
 
-![](https://github.com/WiktorGruszczynski/react-login-register-app/blob/main/images/settings.png)
+![](https://github.com/WiktorGruszczynski/react-login-register-app/blob/main/images/settings_desktop.png)
 
 ### Add games to your favourite games list
 
