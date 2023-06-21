@@ -46,6 +46,6 @@ In order to change your current profile picture you need to click your avatar in
 ![](https://github.com/WiktorGruszczynski/react-login-register-app/blob/main/images/settings_desktop.png)
 
 ### Add games to your favourite games list
-Browse games and add them to your favourites.
+Browse games and add them to your favourites. Your games list is dynamicly saved in database every time you add a game to your list
 
 ![](https://github.com/WiktorGruszczynski/react-login-register-app/blob/main/images/games.gif)
