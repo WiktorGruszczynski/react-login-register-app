@@ -29,5 +29,15 @@ Navigate to client directory and run the following command:
 
 `npm run start`
 
-Navigate to server directory and run index.js
+Run index.js file located in server src directory
+
+# How to use
+- Create an account
+- Log in
+- Change profile picture
+- Change username
+- Change password
+- Delete account
+- Add games to your favourite games list
+
 
