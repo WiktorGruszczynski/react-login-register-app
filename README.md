@@ -34,10 +34,6 @@ Run index.js file located in server src directory
 # How to use
 - Create an account
 - Log in
-- Change profile picture
-- Change username
-- Change password
-- Delete account
+- Edit your profile settings
 - Add games to your favourite games list
-
 
